@@ -1,0 +1,4 @@
+interface:
+  display_name: "56"
+  short_description: "把粗糙想法改写成可直接发送给 GPT-5.6 的成品提示词"
+  default_prompt: "Use $56 to turn my rough request into one finished GPT-5.6 chat prompt."
