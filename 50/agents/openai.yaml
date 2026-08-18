@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Opus 5 Prompt Optimizer"
+  short_description: "把粗糙想法编译成可直接发送给 Opus 5 的成品提示词"
+  default_prompt: "Use $50 to turn my rough request into a finished Claude Opus 5 chat prompt."
